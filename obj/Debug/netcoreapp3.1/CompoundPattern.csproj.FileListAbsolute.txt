@@ -1,0 +1,12 @@
+/Users/abigailanderson/Desktop/Repos/CompoundPattern/bin/Debug/netcoreapp3.1/CompoundPattern.deps.json
+/Users/abigailanderson/Desktop/Repos/CompoundPattern/bin/Debug/netcoreapp3.1/CompoundPattern.runtimeconfig.json
+/Users/abigailanderson/Desktop/Repos/CompoundPattern/bin/Debug/netcoreapp3.1/CompoundPattern.runtimeconfig.dev.json
+/Users/abigailanderson/Desktop/Repos/CompoundPattern/bin/Debug/netcoreapp3.1/CompoundPattern.dll
+/Users/abigailanderson/Desktop/Repos/CompoundPattern/bin/Debug/netcoreapp3.1/CompoundPattern.pdb
+/Users/abigailanderson/Desktop/Repos/CompoundPattern/obj/Debug/netcoreapp3.1/CompoundPattern.csprojAssemblyReference.cache
+/Users/abigailanderson/Desktop/Repos/CompoundPattern/obj/Debug/netcoreapp3.1/CompoundPattern.AssemblyInfoInputs.cache
+/Users/abigailanderson/Desktop/Repos/CompoundPattern/obj/Debug/netcoreapp3.1/CompoundPattern.AssemblyInfo.cs
+/Users/abigailanderson/Desktop/Repos/CompoundPattern/obj/Debug/netcoreapp3.1/CompoundPattern.csproj.CoreCompileInputs.cache
+/Users/abigailanderson/Desktop/Repos/CompoundPattern/obj/Debug/netcoreapp3.1/CompoundPattern.dll
+/Users/abigailanderson/Desktop/Repos/CompoundPattern/obj/Debug/netcoreapp3.1/CompoundPattern.pdb
+/Users/abigailanderson/Desktop/Repos/CompoundPattern/obj/Debug/netcoreapp3.1/CompoundPattern.genruntimeconfig.cache
